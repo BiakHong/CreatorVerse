@@ -1,0 +1,43 @@
+/* Sidebar.css */
+.sidebar {
+  height: 100%; /* Full height of the viewport */
+  width: 250px; /* Width of the sidebar */
+  position: fixed; /* Fixed position */
+  top: 0; /* Align to the top */
+  left: 0; /* Align to the left edge */
+  background-color: #333; /* Dark background color */
+  padding-top: 20px; /* Padding at the top */
+  display: flex;
+  flex-direction: column; /* Stack links vertically */
+  justify-content: center; /* Center the links vertically */
+}
+
+.sidebar-link {
+  color: white; /* Text color */
+  text-decoration: none; /* Remove underline */
+  padding: 20px; /* Padding inside links */
+  flex: 1; /* Expand to fill 50% of vertical space */
+  background-color: #555; /* Background color of links */
+  border: 1px solid #444; /* Border between links */
+  font-size: 18px; /* Font size */
+  display: flex;
+  align-items: center; /* Center text vertically */
+  justify-content: center; /* Center text horizontally */
+  transition: background-color 0.3s; /* Smooth transition */
+}
+
+.sidebar-link:hover {
+  background-color: #777; /* Change background color on hover */
+  
+}
+
+.sidebar-link.active {
+  background-color: rgb(32, 32, 32); /* Active link background color */
+  border: 1px solid rgb(32, 32, 32);
+}
+
+.content {
+  margin-left: 250px; /* Offset content to the right of the sidebar */
+  padding: 20px; /* Padding inside the content area */
+  overflow-y: auto; /* Add vertical scroll if content is too long */
+}
