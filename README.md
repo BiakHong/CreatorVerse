@@ -32,12 +32,14 @@ The following **additional** features are implemented:
 * [ ] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
-![PreWork](https://github.com/user-attachments/assets/c8c87d33-135c-4d40-84f7-fedd91f7fc1d)
+
+![PreWork](https://github.com/user-attachments/assets/ece50089-6243-408a-a1d6-cbd08b28f7fb)
+
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='http://i.imgur.com/a/kNNpNmm' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+👉🏿<img src='https://imgur.com/a/SeVtpTP' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/SeVtpTP' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  👉🏿 LICEcap
